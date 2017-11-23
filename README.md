@@ -1,2 +1,2 @@
 Demo: 
-![Demo](https://github.com/PrincipalsOffice/kwame/blob/master/demo.gif)
+![Demo](https://i.imgur.com/21WyGgX.mp4)
