@@ -1,2 +1,1 @@
-Demo: 
-![Demo](https://i.imgur.com/21WyGgX.gifv)
+Demo: https://i.imgur.com/21WyGgX.gifv
